@@ -17,7 +17,7 @@ HEMS & SAR locations in Germany
 - Clone or download the repo into a directory on the machine where VRS is running. Ensure you do not place the files under the Virtual Radar Server directory, since they could be overwritten on upgrades.
 - Configure the VRS Custom Content Plugin to add the "Locations.html" file into the END of HEAD portion of the pages, with "/desktop.html" (without quotes and spaces) on the Address field.
 - Repeat Step 2 but this time with "/mobile.html" on the Address Field.
-- Place the folder "\Web\images\markers" in your Web folder.
+- Place heli.png in your "\Web\Images\" folder.
 
 
 ![alt tag](https://github.com/ETEJSpotter/VRS_HEMS_SAR_Locations_Germany/blob/master/Locations.jpg)
